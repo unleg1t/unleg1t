@@ -2,15 +2,15 @@
   <img src="https://github.com/unleg1t.png" width="120" alt="unleg1t profile picture" />
 </p>
 
-<h1 align="center">yo, i'm unleg1t</h1>
+<h1 align="center">unlegit</h1>
 
 <p align="center">
-  <b>anticheat bypass scientist and "experienced" java developer.</b><br>
-  <i>java slop + crapcode ✦</i>
+  <b>utility software with 2 years of java experience</b><br>
+  <i>17, junior in high school, actively looking for java software positions</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&duration=3000&pause=800&color=C8A2FF&center=true&vCenter=true&width=700&lines=xbox+360+enthusiast;minecraft+cheats+%E2%9C%A6+python+tools+%E2%9C%A6+visual+novels;what+does+a+boolean+mean+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&duration=3000&pause=800&color=C8A2FF&center=true&vCenter=true&width=700&lines=java+developer;minecraft+cheats+%E2%9C%A6+python+tools+%E2%9C%A6+visual+novels;what+does+a+boolean+mean+%F0%9F%92%9C" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,9 +26,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://m.media-amazon.com/images/I/518D5JGIM9L._AC_UF1000,1000_QL80_.jpg" width="220" />
-  <br><br>
-  <sub>made with ♡, purple glitter, and insomnia</sub>
-</p>
