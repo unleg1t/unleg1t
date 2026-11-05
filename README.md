@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>"experienced" 2.5 year java dev.</b><br>
-  <i>17 years old, looking for experience</i>
+  <i>17 years old, looking for experience</i><br>
   <i>interested in: reverse engineering, java, computers, anime & japan culture, and video games</i>
 </p>
 
