@@ -5,12 +5,8 @@
 <h1 align="center">unlegit</h1>
 
 <p align="center">
-  <b>utility software with 2 years of java experience</b><br>
-  <i>17, junior in high school, actively looking for java software positions</i>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&duration=3000&pause=800&color=C8A2FF&center=true&vCenter=true&width=700&lines=java+developer;minecraft+cheats+%E2%9C%A6+python+tools+%E2%9C%A6+visual+novels;what+does+a+boolean+mean+%F0%9F%92%9C" alt="Typing SVG" />
+  <b>"experienced" 2.5 year java dev.</b><br>
+  <i>17 years old, looking for experience</i>
 </p>
 
 ---
